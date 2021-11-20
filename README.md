@@ -1,5 +1,3 @@
-# 211120
- 네이버따라하기
 # 가운데정렬(center)
   <style><br>
     h1 {text-align: center;}<br>
