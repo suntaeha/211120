@@ -4,4 +4,4 @@
   <style><br>
     h1 {text-align: center;}<br>
   </style>
-  \<h1>가운데 정렬할 내용</h1>
+  \<h1>가운데 정렬할 내용\</h1>
